@@ -12,6 +12,3 @@ Tematyka projektów:
 * Analiza korelacji i regresji
 * Wizualizacja danych
 * Analiza danych wielowymiarowych
-
-Autorzy
-Kaoina
